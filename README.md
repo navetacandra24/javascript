@@ -1,6 +1,5 @@
 ## Smooth Scrolling Library (Vanilla JS)
 
-[CDN Link](https://navetacandra24.github.io/javascript/smoothscroll.js)
 ```Javascript
 // Get Triggers Element
 let scrollToggle = document.querySelectorAll(<triggers-links>);
@@ -24,4 +23,18 @@ scrollToggle.forEach(function (toggle) {
         }
     }, false);
 });
+```
+
+
+## WA Spam (Vanilla JS)
+
+```Javascript
+let text = string
+let message = message
+
+//Lyrics Prank
+lyricsPrank(text)
+
+//Bomb Prank
+bombPrank(message, count)
 ```
